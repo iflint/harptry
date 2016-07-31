@@ -1,8 +1,12 @@
 {
 	"one" : {
-		"title": "First Post"
+		"title": "First Post",
+		"category": "Programming",
+		"date": "April 3rd 2016"
 	},
 	"two" : {
-		"title": "Second Post"
+		"title": "Second Post",
+		"category": "Travel",
+		"date": "April 4rd 2016"
 	}
 }
